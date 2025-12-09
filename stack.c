@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "stack.h"
 #include <string.h>
-#define STUDENT_INFO "202518024 Ri Eduard" //add info here
+#define STUDENT_INFO "202518024 Ri Eduard" //add info 
 
 Stack * create_stack(int initial_size)
 {
